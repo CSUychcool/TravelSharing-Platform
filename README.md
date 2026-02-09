@@ -99,8 +99,8 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/TravelInfoShare.git
-cd TravelInfoShare
+[git clone https://github.com/你的用户名/TravelInfoShare.git](https://github.com/CSUychcool/TravelSharing-Platform.git)
+cd TravelSharing-Platform
 ```
 
 ### 2. 数据库初始化
