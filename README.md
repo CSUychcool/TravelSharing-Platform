@@ -1,7 +1,7 @@
 # TravelInfoShare 旅游信息分享平台
 一款轻量、高性能的跨平台旅游信息分享平台，整合**旅游攻略分享、社交互动、行程规划**三大核心能力，为旅行者打造攻略收集、队伍组建、实时沟通、路线规划的一站式解决方案，全面覆盖旅游前、中、后全流程的服务需求。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Unlicense](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Qt 6.8.0](https://img.shields.io/badge/Qt-6.8.0-blue.svg)](https://www.qt.io/)
 [![MySQL 8.0.36](https://img.shields.io/badge/MySQL-8.0.36-orange.svg)](https://www.mysql.com/)
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-green.svg)](https://en.cppreference.com/w/cpp/17)
